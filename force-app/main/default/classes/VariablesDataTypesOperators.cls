@@ -64,7 +64,7 @@ public with sharing class VariablesDataTypesOperators {
      */
     public static Integer multiplication(Integer a, Integer b) {
         Integer result = a * b;
-        return null; 
+        return result; 
     }
 
     /**
